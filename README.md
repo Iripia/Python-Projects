@@ -1,1 +1,3 @@
-### To see the jupyter notebooks files with all rows and columns, click on the files named Complete data cleaning project and Complete visualization project. They cannot be previewed due to their large sizes. Thank you!
+
+
+### To see the jupyter notebook file with all rows and columns, click on the file named Complete data cleaning project. It cannot be previewed due to its size. Thank you!
